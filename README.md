@@ -19,7 +19,7 @@ where username is the user whose data you want to export, and filename is the na
 To export your watchlist use
 
 ```sh
-npx trakt-to-letterboxy -u username -w watchListFilename
+npx trakt-to-letterboxd -u username -w watchListFilename
 ```
 
 Both options can also be used together:
